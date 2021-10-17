@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Awt Framework/Awt Framework.iml" filepath="$PROJECT_DIR$/Awt Framework/Awt Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Deepak/Deepak.iml" filepath="$PROJECT_DIR$/Deepak/Deepak.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileInputOutput/FileInputOutput.iml" filepath="$PROJECT_DIR$/FileInputOutput/FileInputOutput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fundamental of java/Fundamental of java.iml" filepath="$PROJECT_DIR$/Fundamental of java/Fundamental of java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Image/Image.iml" filepath="$PROJECT_DIR$/Image/Image.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaApplication13/JavaApplication13.iml" filepath="$PROJECT_DIR$/JavaApplication13/JavaApplication13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Netbeans Projects.iml" filepath="$PROJECT_DIR$/.idea/Netbeans Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegularExpression/RegularExpression.iml" filepath="$PROJECT_DIR$/RegularExpression/RegularExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/Serialization/Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwingFrameWork/SwingFrameWork.iml" filepath="$PROJECT_DIR$/SwingFrameWork/SwingFrameWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbutton/actionbutton.iml" filepath="$PROJECT_DIR$/actionbutton/actionbutton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc part 1/jdbc part 1.iml" filepath="$PROJECT_DIR$/jdbc part 1/jdbc part 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc part1/jdbc part1.iml" filepath="$PROJECT_DIR$/jdbc part1/jdbc part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc part2/jdbc part2.iml" filepath="$PROJECT_DIR$/jdbc part2/jdbc part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginpage/loginpage.iml" filepath="$PROJECT_DIR$/loginpage/loginpage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shivam/shivam.iml" filepath="$PROJECT_DIR$/shivam/shivam.iml" />
+    </modules>
+  </component>
+</project>
